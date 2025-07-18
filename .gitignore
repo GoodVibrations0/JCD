@@ -1,0 +1,4 @@
+# Joseph Doherty 
+node_modules
+*.sql
+.env
